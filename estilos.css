@@ -1,0 +1,12 @@
+.contenedor{
+    display: flex;
+    margin: 10 auto;
+    width: 90%;
+    
+}
+
+.Izquierda{
+    width: 60%;
+    margin: 10px;
+    padding: 10px;
+}
